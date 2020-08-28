@@ -1,0 +1,4 @@
+---
+# vars file for ec2_instance
+access_key: "enter access key here"
+secret_key: "enter secret key here"
